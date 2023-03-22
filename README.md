@@ -1,4 +1,4 @@
-# Matplotlib-Challenge-HW5
+# Matplotlib-Challenge
 ## Background
 
 What good is data without a good plot to tell the story?
